@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd480596-fecc-4d60-a0d3-eaace01a1850" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php-message.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conndb.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/cssreset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jq-banner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.SuperSlide.2.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery1.42.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/shoucang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userinfo_insert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userinfo_insert.php" afterPath="$PROJECT_DIR$/userinfo_insert.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,25 +26,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+            <state relative-caret-position="295">
+              <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="userinfo_insert.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="userinfo_insert.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userinfo_insert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="550">
+              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
               <folding>
-                <marker date="1511404006918" expanded="true" signature="550:638" ph="INSERT INTO user_info... " />
-                <marker date="1511404006918" expanded="true" signature="556:638" ph="insert into user_info... " />
-                <marker date="1511404006918" expanded="true" signature="635:638" ph="INSERT INTO hello... " />
+                <marker date="1511409546517" expanded="true" signature="529:612" ph="INSERT INTO user... " />
               </folding>
             </state>
           </provider>
@@ -79,8 +51,8 @@
       <file leaf-file-name="conndb.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conndb.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="52" />
+            <state relative-caret-position="132">
+              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
               <folding>
                 <marker date="1511335371651" expanded="true" signature="229:247" ph="select * fro... user" />
               </folding>
@@ -89,6 +61,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>username</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,8 +87,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="604" />
-    <option name="y" value="77" />
+    <option name="x" value="721" />
+    <option name="y" value="50" />
     <option name="width" value="1158" />
     <option name="height" value="951" />
   </component>
@@ -247,12 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511337513678</updated>
       <workItem from="1511337515277" duration="5673000" />
-      <workItem from="1511401117027" duration="2258000" />
+      <workItem from="1511401117027" duration="5200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7931000" />
+    <option name="totallyTimeSpent" value="10873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +241,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="604" y="77" width="1158" height="951" extended-state="1" />
+    <frame x="721" y="50" width="1158" height="951" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24868652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -320,40 +297,36 @@
         <state relative-caret-position="475">
           <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
-            <marker date="1511404006918" expanded="true" signature="550:638" ph="INSERT INTO user_info... " />
-            <marker date="1511404006918" expanded="true" signature="556:638" ph="insert into user_info... " />
-            <marker date="1511404006918" expanded="true" signature="635:638" ph="INSERT INTO hello... " />
+            <marker date="1511409546517" expanded="true" signature="529:612" ph="INSERT INTO user... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conndb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="132">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="33" />
           <folding>
             <marker date="1511335371651" expanded="true" signature="229:247" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userinfo_insert.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <marker date="1511404006918" expanded="true" signature="550:638" ph="INSERT INTO user_info... " />
-            <marker date="1511404006918" expanded="true" signature="556:638" ph="insert into user_info... " />
-            <marker date="1511404006918" expanded="true" signature="635:638" ph="INSERT INTO hello... " />
-          </folding>
+        <state relative-caret-position="295">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/userinfo_insert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="550">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <marker date="1511409546517" expanded="true" signature="529:612" ph="INSERT INTO user... " />
+          </folding>
         </state>
       </provider>
     </entry>
