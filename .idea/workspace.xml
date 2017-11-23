@@ -39,10 +39,10 @@
       <file leaf-file-name="userinfo_insert.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userinfo_insert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="409">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
-                <marker date="1511409546517" expanded="true" signature="529:612" ph="INSERT INTO user... " />
+                <marker date="1511410814993" expanded="true" signature="641:724" ph="INSERT INTO user... " />
               </folding>
             </state>
           </provider>
@@ -224,12 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511337513678</updated>
       <workItem from="1511337515277" duration="5673000" />
-      <workItem from="1511401117027" duration="5200000" />
+      <workItem from="1511401117027" duration="6358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10873000" />
+    <option name="totallyTimeSpent" value="12031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +297,7 @@
         <state relative-caret-position="475">
           <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
-            <marker date="1511409546517" expanded="true" signature="529:612" ph="INSERT INTO user... " />
+            <marker date="1511410814993" expanded="true" signature="641:724" ph="INSERT INTO user... " />
           </folding>
         </state>
       </provider>
@@ -322,10 +322,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/userinfo_insert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="409">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <marker date="1511409546517" expanded="true" signature="529:612" ph="INSERT INTO user... " />
+            <marker date="1511410814993" expanded="true" signature="641:724" ph="INSERT INTO user... " />
           </folding>
         </state>
       </provider>
