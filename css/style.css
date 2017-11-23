@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body{overflow-x:hidden;}
+a:hover,a:focus{text-decoration: none;}
+.light_nav,.light_nav1{height:100px!important;background:#fff;border:none;z-index:1111;}
+.logo{position: absolute;top:-3px;}
+.light_nav .nav{padding-left: 270px;}
+.light_nav .nav li a{height:72px;line-height:72px;padding:0px 15px;font-size:18px;}
+.light_nav .nav li.active a,.light_nav .nav li.active a:hover{background:none;color:#498537;}
+.light_nav .nav li.active a{font-weight:bold;}
+.language{top:26px;right:220px;line-height:20px;color:#363533;font-size:15px;border-left:solid 1px #363533;margin-left: 40px;padding-left: 50px;}
+.language a{color:#363533;}
+a ,p,span,h1,div,p,li{font-family:arial,"Microsoft YaHei";}
+
+
+
+
