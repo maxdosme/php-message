@@ -57,9 +57,8 @@
                 <div class="form-group">
                     <div class="col-md-offset-2 col-md-10">
 <!--                        <button class="btn btn-primary">新增</button>-->
-<!--                        <button class="btn btn-primary" type="submit">提交</button>-->
+                        <button class="btn btn-primary" type="submit">提交</button>
 <!--                        <button class="btn btn-danger">删除</button>-->
-                        <input type="submit" value="提交">
                     </div>
                 </div>
             </form>
